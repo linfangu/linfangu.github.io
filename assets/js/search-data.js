@@ -42,7 +42,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/cv_linfan.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -52,11 +52,18 @@ ninja.data = [{
           window.open("mailto:%6C%69%6E%66%61%6E%67%75@%75%63%6C%61.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/linfangu", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/linfangu", "_blank");
+          window.open("https://www.linkedin.com/in/linfan-gu-a944ba385", "_blank");
         },
       },{
         id: 'social-scholar',
