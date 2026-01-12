@@ -1,3 +1,14 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  {% assign selected_pubs = site.data.publications | where: "selected", true %}
+  {% for pub in selected_pubs %}
+    <div class="publication-item">
+      <strong>{{ pub.title }}</strong><br/>
+      <em>{{ pub.authors }}</em><br/>
+      {{ pub.journal }}, {{ pub.year }}<br/>
+      {% if pub.link %}
+        <a href="{{ pub.link }}" target="_blank">Link</a>
+      {% endif %}
+    </div>
+    <hr/>
+  {% endfor %}
 </div>
