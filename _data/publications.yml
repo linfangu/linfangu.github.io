@@ -1,5 +1,5 @@
 - title: "Neural basis of cooperative behavior in biological and artificial intelligence systems"
-  authors: "Jiang, Mengping#; Gu, Linfan#; Ma, Mingyi; Li, Qin; Kao, Jonathan C.*; Hong, Weizhe*"
+  authors: "<u>Jiang, Mengpingtext</u>#; <u>Gu, Linfan</u>#; Ma, Mingyi; Li, Qin; Kao, Jonathan C.*; Hong, Weizhe*"
   journal: "Science"
   year: 2025
   link: "https://doi.org/10.1126/science.adw8151"
@@ -7,9 +7,25 @@
   selected: true
 
 - title: "Neural basis of collective social behavior during environmental challenge"
-  authors: "Tara Raam#; Qin Li#; Linfan Gu#; Gabrielle Elagio; Kayla Y. Lim; Xingjian Zhang; Stephanie M. Correa; Weizhe Hong"  # Replace with actual author list
+  authors: "<u>Raam, Tara</u>#; <u>Li, Qin</u>#; <u>Gu, Linfan</u>#; Elagio, Gabrielle; Lim, Kayla Y.; Zhang, Xingjian; Correa, Stephanie M.; Hong, Weizhe"  # Replace with actual author list
   journal: "Accepted at Nature Neuroscience"
   year: 2025
   link: "https://www.biorxiv.org/content/10.1101/2024.09.17.613378v1"
   note: "#Co-first authors"
   selected: true
+
+- title: "CMT2D neuropathy is influenced by vitamin D-mediated environmental pathway"
+  authors: "Liu, Huaqing; Tang, Mingmin; Yu, Hualin; Liu, Tongfei; Cui, Qinqin; Gu, Linfan; Wu, Zhi‑Ying; Sheng, Nengyin; Yang, Xiang‑Lei*; Zeng, Linghui*; Bai, Ge*"
+  journal: "Journal of Molecular Cell Biology"
+  year: 2023
+  link: "https://doi.org/10.1093/jmcb/mjad029"
+  note: "*Co‑corresponding authors"
+  selected: false 
+
+- title: "Neuroligin 3 regulates dendritic outgrowth by modulating Akt/mTOR signaling"
+  authors: "Xu, Jing; Du, Yong‑lan; Xu, Jing‑wei; Hu, Xiao‑ge; Gu, Lin‑fan#; Li, Xiu‑mao; Hu, Ping‑hong; Liao, Tai‑lin; Xia, Qiang‑qiang; Sun, Qi; Shi, Lei; Luo, Jian‑hong; Xia, Jun; Wang, Ziyi*; Xu, Junyu*"
+  journal: "Frontiers in Cellular Neuroscience"
+  year: 2019
+  link: "https://doi.org/10.3389/fncel.2019.00518"
+  note: "*Co‑corresponding author"
+  selected: false
