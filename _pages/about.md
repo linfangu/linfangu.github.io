@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Neuroscientist, exploring AI in medicine </p>
-    <p>Bioengineering PhD candidate, UCLA </p>
+    <p>Bioengineering PhD candidate </p>
+    <p>UCLA </p>
     <p>Dancer and amateur gymnast </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
