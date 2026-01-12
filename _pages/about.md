@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: DSCF4975.jpg
+  image: DSCF4975.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Neuroscientist, exploring AI in medicine </p>
