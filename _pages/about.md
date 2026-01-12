@@ -30,12 +30,12 @@ latest_posts:
 
 🌟 **Bridging neuroscience and AI**
 
-I am a Ph.D. candidate in Bioengineering at UCLA, working with Dr. Weizhe Hong (Neurobiology) and Dr. Jonathan Kao (Computer Science/ECE). I am fortunate to be part of an interdisciplinary team investigating the computational foundations of neural systems and developing AI models with biologically grounded properties.
+I am a Ph.D. candidate in Bioengineering at [UCLA](https://www.bioeng.ucla.edu/), mentored by [Dr. Weizhe Hong (Neurobiology)](https://www.hong-lab.org/) and [Dr. Jonathan Kao (Computer Science/ECE)](https://www.kaolab.org/). I am fortunate to be part of an interdisciplinary team investigating the computational foundations of neural systems and developing AI models with biologically grounded properties.
 
-Previously, I earned my bachelor’s degree in Biomedical Sciences at the University of Edinburgh, where I worked with Dr. Gedi Luksys on emotional and valence representations in human neuroimaging data, and with Prof. Ge Bai on the genetic and molecular mechanisms underlying neurodegenerative diseases.
+Previously, I earned my bachelor’s degree in Biomedical Sciences at the University of Edinburgh, where I worked with [Dr. Gedi Luksys](https://discovery-brain-sciences.ed.ac.uk/our-staff/research-groups/gedi-luksys) on machine learning decoders of emotion and memory in human neuroimaging data, and with [Prof. Ge Bai](https://person.zju.edu.cn/en/bailab) on the genetic and molecular mechanisms underlying neurodegenerative diseases.
 
 Looking ahead, I aim to apply artificial intelligence and reinforcement learning to develop brain–computer interfaces and precise neural modulation technologies for the treatment of neurological disorders.
 
 🌟 **Bridging scientists and the community**
 
-Science communication has shaped my academic and personal growth, allowing me to engage diverse audiences and support community dialogue. I have contributed to initiatives at UCLA’s Brain Research Institute, Pint of Science, and Inner Circle, taking on leadership roles that foster community dialogue.
+Science communication has shaped my academic and personal growth, allowing me to engage diverse audiences and support community dialogue. I have contributed to initiatives at UCLA’s Brain Research Institute, Pint of Science, and the Inner Circle, taking on leadership roles that foster community dialogue.
