@@ -33,7 +33,7 @@ I am a Ph.D. candidate in Bioengineering at [UCLA](https://www.bioeng.ucla.edu/)
 
 Previously, I earned my bachelor’s degree in Biomedical Sciences at the University of Edinburgh, where I worked with [Dr. Gedi Luksys](https://discovery-brain-sciences.ed.ac.uk/our-staff/research-groups/gedi-luksys) on machine learning decoders of emotion and memory in human neuroimaging data, and with [Prof. Ge Bai](https://person.zju.edu.cn/en/bailab) on the genetic and molecular mechanisms underlying neurodegenerative diseases.
 
-Looking ahead, I aim to apply artificial intelligence and reinforcement learning to develop brain–computer interfaces and precise neural modulation technologies for the treatment of neurological disorders.
+Looking ahead, I aim to apply artificial intelligence and **reinforcement learning** to develop **brain–computer interfaces and precise neural modulation technologies** for the treatment of neurological disorders.
 
 🌟 **Bridging scientists and the community**
 

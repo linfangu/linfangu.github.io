@@ -1,9 +1,9 @@
 - title: "Neural basis of cooperative behavior in biological and artificial intelligence systems"
-  authors: "<u>Jiang, Mengpingtext</u>#; <u>Gu, Linfan</u>#; Ma, Mingyi; Li, Qin; Kao, Jonathan C.*; Hong, Weizhe*"
+  authors: "<u>Jiang, Mengping</u>#; <u>Gu, Linfan</u>#; Ma, Mingyi; Li, Qin; Kao, Jonathan C.*; Hong, Weizhe*"
   journal: "Science"
   year: 2025
   link: "https://doi.org/10.1126/science.adw8151"
-  note: "*Co-first authors, #Co-corresponding authors"
+  note: "#Co-first authors, *Co-corresponding authors"
   selected: true
 
 - title: "Neural basis of collective social behavior during environmental challenge"
@@ -27,5 +27,5 @@
   journal: "Frontiers in Cellular Neuroscience"
   year: 2019
   link: "https://doi.org/10.3389/fncel.2019.00518"
-  note: "*Co‑corresponding author"
+  note: "*Co‑corresponding authors"
   selected: false
