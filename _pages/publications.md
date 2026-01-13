@@ -13,8 +13,8 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
-  {% assign selected_pubs = site.data.publications | where: "selected", true | sort: "year" | reverse %}
-  {% for pub in selected_pubs %}
+  {% assign all_pubs = site.data.publications | sort: "year" | reverse %}
+  {% for pub in all_pubs %}
     <div class="publication-item">
       <strong>{{ pub.title }}</strong><br/>
       <em>{{ pub.authors }}</em><br/>
