@@ -28,14 +28,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-completed-cajal-adcance-neuroscience-training-course-neuro-ai-with-scholarship-award",
-          title: 'I completed Cajal Adcance Neuroscience Training course, Neuro-AI with scholarship award!',
+            },},{id: "news-i-completed-cajal-adcance-training-course-neuro-ai-with-scholarship-award",
+          title: 'I completed Cajal Adcance Training course - Neuro-AI with scholarship award!',
           description: "",
           section: "News",},{id: "news-my-thesis-work-neural-basis-of-cooperative-behavior-in-biological-and-artificial-intelligence-systems-doi-10-1126-science-adw8151-is-now-published-on-science-tada",
           title: 'My thesis work Neural basis of cooperative behavior in biological and artificial intelligence...',
           description: "",
-          section: "News",},{id: "news-recent-work-emergence-and-neural-mechanisms-of-cooperation-in-mice-and-artificial-agents-has-been-accepted-as-a-poster-at-cosyne-2026-tada",
-          title: 'Recent work Emergence and Neural Mechanisms of Cooperation in Mice and Artificial Agents...',
+          section: "News",},{id: "news-my-abstract-emergence-and-neural-mechanisms-of-cooperation-in-mice-and-artificial-agents-has-been-accepted-as-a-poster-at-cosyne-2026-tada",
+          title: 'My abstract Emergence and Neural Mechanisms of Cooperation in Mice and Artificial Agents...',
           description: "",
           section: "News",},{
         id: 'social-cv',
