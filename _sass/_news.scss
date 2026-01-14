@@ -1,0 +1,26 @@
+.news {
+  color: var(--global-text-color);
+
+  table {
+    color: var(--global-text-color);
+  }
+
+  th {
+    color: var(--global-text-color-light);
+    font-weight: 500;
+  }
+
+  td {
+    color: var(--global-text-color);
+  }
+
+  .news-title {
+    color: var(--global-text-color);
+    text-decoration: none;
+  }
+
+  .news-title:hover {
+    color: var(--global-theme-color);
+    text-decoration: underline;
+  }
+}
