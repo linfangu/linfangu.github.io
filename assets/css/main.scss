@@ -24,8 +24,8 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-@media (prefers-color-scheme: dark) {
-  .news, .news * {
-    color: #fff !important;
-  }
-}
+// @media (prefers-color-scheme: dark) {
+//   .news, .news * {
+//     color: #fff !important;
+//   }
+// }
