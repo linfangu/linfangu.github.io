@@ -38,13 +38,6 @@ ninja.data = [{
           title: 'My abstract Emergence and Neural Mechanisms of Cooperation in Mice and Artificial Agents...',
           description: "",
           section: "News",},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/cv_linfan.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
